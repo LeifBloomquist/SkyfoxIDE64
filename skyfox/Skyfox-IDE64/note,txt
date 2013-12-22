@@ -1,0 +1,11 @@
+
+IDE64 patch for Commodore 64 game  SKYFOX
+
+By Schema/AIC   leif@schemafactor.com    04/01/2011
+
+Thanks to soci/singular for the help!
+
+Note that this version also works on the uIEC and 1581 drives if you rename 
+the secondary files appropriately (A,prg -> A) etc.
+
+www.jammingsignal.com/aic/

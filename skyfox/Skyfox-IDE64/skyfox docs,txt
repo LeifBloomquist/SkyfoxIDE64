@@ -1,0 +1,327 @@
+
+           S K Y F O X !!
+           - - - - - - --
+
+
+Starting Up (IDE64)
+-----------
+Load "!skyfox" : run
+or press F1 in game directory
+
+Skill Levels:
+----- -------
+The first 7 scenarios are training
+missions with tanks only,some with
+enemy planes, or some with both.
+They contain no mother ships which
+can destroy your base.
+
+In the 8 invasions you must protect
+your computer and whatever fighters
+you have left.
+
+When you wipe out all enemy forces
+or the enemy wipes you out,you will
+return to base.  When you get to the
+end of a game press any key and
+start over at the rank,or a different
+rank.to start a game over anytime
+hit CTRL-R.
+
+Launching A Skyfox Fighter:
+--------- - ------ --------
+Hit the fire button,when you're asked
+to select [high] or [low] it wants
+select low for tanks,or high for planes.
+
+Flying A Skyfox:
+------ - -------
+Move the joystick right or left to
+turn the plane.press the spacebar to
+engage in afterburners for quick
+thrust,release it to return to pre
+thrust speed.
+
+**hint**if you plug a second joystick
+into port 2,you can use the fire button
+on #2 for quick thrust.
+
+
+Using A SKYFOX Weapon System:
+----- - ------ ------ -------
+Press Joystick #1 button for laser
+cannon fire.  Press either G or F5
+on the keyboard to arm a heat seeking
+missle and G or F3 to arm a guided
+one.  Press again to disarm an armed
+missle which you haven't fired yet.
+
+Press the joystick #1 button to
+release the armed missle.  You must be
+pointed toward a target visable on
+your on board radar to fire a missle
+or you will get a 'no target' message
+
+Using Automatic Pilot To Find Enemies:
+----- --------- ----- -- ---- --------
+When no enemies are in view press
+A or F7 to engage in automatic pilot
+your on board computer will locate
+the nearest enemy and send you to
+their location at mach 2.  If there are
+no enemies left, it will send you to
+home base.
+
+Using The Base Computer:
+----- --- ---- --------
+The base computer displays a tactical
+map which shows the location of all
+your installations and of all enemy
+vehicles.while flying the skyfox hit
+C to bring up a visual display of that
+map,transmitted from your base computer
+use the cursor keys to move the cursor
+to the sector you want to fly to,then
+press A or F7 to engage the auto pilot
+you may also use this procedure to
+choose your own target to launch
+against the base.pressing C again
+disengages the computer.
+
+Flying Through The Cloud Barrier:
+------ ------- --- ----- --------
+There is a cloud barrier that stretches
+between 1000 and 10,000 feet.  You must
+fly through it each time you switch
+between ground and air combat.  Flying
+up to 30,000 feet results in heavy
+fuel consumption.look for enemy planes
+between 30,000 and 40,000 feet.  They
+will only fly in that range.
+
+To switch from air to ground altitude hit 
+U or D.
+
+Landing A Skyfox Fighter:
+------- - ------ --------
+You may land at home base to recharge
+your shields and take on fuel.  You
+may not land at any installations
+other than your home base.  Your home
+base is shown on the tactical map as
+a white checkered square.  All other
+installations are shown as solid
+white squares.
+
+To Land:
+
+1)enter the sector containing your base
+2)reduce speed to zero by pressing 0
+3)reduce by pressing foward on joystick #1
+
+Once you've succesfully landed the base 
+computer will appear on the screen.
+
+Tactical Map:
+-------- ---
+-Cursor Keys Move The Cursor
+-Z zooms in on square under cursor
+-A or F7 engages automatic pilot
+-S brings up the score summary
+-R brings up the installation status
+  report,  **hint**check shields on each
+  installation,when they reach zero the
+  installation is destroyed.
+-T brings back tactical map
+
+Miscellaneous Commands:
+------------- --------
+Ctrl-R-restarts the game.
+Run/Stop-freezes the game.
+H-Gets you help at tactical map
+
+
+
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ @ @@    13  53  ECA   11  48     @@@
+ @  @@   --  --  ---   --  --    @@ @
+ @   @@  (1)+(2) (3)   (4)+(5)  @@  @
+ @    @@                       @@   @
+ @     @@                     @@    @
+ @      @@                   @@     @
+ @       @@                 @@      @
+ @        @@               @@       @
+ @        -------------------       @
+ @        -                 -       @
+ @         -      (6)      -   (7)  @
+ @         -    +RADAR+    - [AUTO] @
+ @  (9)    -               -        @
+ @[*****]  -----------------    [*] @
+ @(10)                          [*] @
+ @[00:00:04]                 (8)[*] @
+ @         [1500 063 35000]     [*] @
+ @          (12) (13)  (14) (15)[*] @
+ @   2(11) ----------------   3 [*] @
+ @    9   ------------------ 2      @
+ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ 
+
+The instruments above show various
+instrumentation i will explain these
+below.use the number guide to key
+in the definition with the instrament.
+
+
+1&2-X Coordinate,your current postion
+    in miles from the left tactical
+    map.
+ 3- Electronic Arts Symbol Of Bullshit.
+
+4&5-Y Coordinate,your current postion
+    in miles from the bottom of the
+    tactical map.
+
+6-Radar Scanner Display,F1 toggles        
+  between overhead and foward radar
+  screens.Overhead radar shows enemy
+  installments as well as enemy targets
+  enemy targets blink.watch also for
+  messages to appear here.
+
+7-Auto Pilot Indicator,will show either
+  AUTO or nothing,depending on your
+  flying mode.press A or F7 to engage.
+
+8-Shield Indicator,on the right side
+  you will see a power level,this shows
+  the power of your shields,when the
+  red is gone,so are you.land at base
+  to recharge.
+
+9-Fuel Indicator,fuel consumption
+  increases with speed.using
+  afterburners for thrust boosts are
+  and climbing to fight planes are
+  especially expensive.land at home
+  base to refuel.running out of fuel
+  is fatal.
+
+10-Clock,shows elapsed time since
+   invasion onslaught.
+
+11-Guided Missle Count,press G or F3
+   to arm(and G or F3 again to disarm)
+   and joystick #1 to fire.you must
+   be facing a target on your radar
+   screen to fire.
+
+12-Speed Indicator,in miles per hour.
+0  press a number on the keyboard(1-9)
+   to set a new speed,0 stops,1 at 10%
+   2 at 20% etc.press + to increase
+   by 100 Mph qnd - to decrease at
+   100 mph,maximum is 3000 mph.
+
+13-Compass Heading,0 is north,90 is
+   east,270 is west.
+
+14-Altitude Indicator,be careful.  Above
+   the rank of cadet,hitting the ground
+   hard costs some shield strength.
+
+15-Heat Seeking Missle Count,press
+   H or F5 to arm(and H or F5 again
+   to disarm)and joystick #1 button
+   to fire.you must be facing a target
+   on your radar screen to fire.
+
+
+The Scenarios:
+--- ---------
+
+Tank Training 1-
+You are launched flying due east
+toward three consecutive waves of tanks
+when you destroy the last one,you will
+automatically be returned to base.
+launch again to face even more tanks.
+use your overhead radar scanner to
+spot your targets.
+
+Tank Training -2
+Sectors all over the map will be
+occupied by tanks,all advancing
+on your base.  When you clear out the
+tanks in your immediate area,press
+A or F7 to engage the automatic pilot.
+This will take you to mach 2 to the
+next nearest target.
+
+**hint**when using the keyboard,depress
+the key and hold it down long enough
+to see it's effect.  Do not simply give
+the key a quick tap.
+
+Plane Training -1
+You will be launched onto the tail of
+an enemy plane.shoot fast or it will
+circle around and attack you.the
+foward scanner shows planes which are
+in range and will help you determine
+whether they are above or below you.
+F1 toggles between foward and overhead
+scannerstry your guided and heat
+seeking missles.succeed and you can
+relaunch against succesfully more
+planes.
+
+Plane Training -2
+Launches you nose to nose with the
+enemy.**hint**the slow don't live.
+
+Plane Training -3
+Like tank training 2,but with planes.
+
+High/Low Training -
+Alternate waves first of tanks,then
+of planes.you'll automatically be
+returned to base after each success.
+
+Combo Training -
+Like high/low but a wave consists of
+both tanks and planes.  You may fly
+through the cloud layer that seperate
+air and ground wars.
+
+Small Invasion -
+Mothership to defeat,before it launches
+enough planes and tanks to destroy your
+base.  Protect your base and the outlying
+installations containing your friends and
+relatives.  Be sure and save some
+missles to use against motherships.when
+a mothership launches a plane on a
+bombing run to one of your installations,
+the message 'launch detected' will appear 
+on the radar scanner display in your cockpit.
+
+Full Invasion -
+A 3 mothership invasion
+
+Massive Onslaught -
+6 motherships
+
+Halo,Alamo,Wall Chess,And Cornered -
+each a multiple mothership invasion
+,each with it's own shape and pressure
+to study enemy movement patterns in
+the scenarios,choose a scenario and
+press button to enter the base,then
+don't launch.  Just watch the enemy
+movement on the tactical map to
+understand their strategies             
+
+
+
+                 Docs,
+                 Written By:ICE MAN  (Fixed by Schema)

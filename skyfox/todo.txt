@@ -1,0 +1,14 @@
+
+-Instructions
+-Test on PAL 64    WORKS!
+-Test on uIEC      WORKS!
+-Test on 1581      WORKS!
+-move mem   Done
+-Crunch     Done
+
+-Remove .prg and ,prg so it works on uIEC as well
+
+
+Notes
+
+charset has 256*8=2048 bytes. aka $0400

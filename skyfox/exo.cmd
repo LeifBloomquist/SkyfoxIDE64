@@ -1,0 +1,1 @@
+exomizer sfx basic -o64 -o%1.exo %1
